@@ -1,12 +1,6 @@
 {
   "users": [
     {
-      "id": "60da",
-      "email": "",
-      "name": "",
-      "password": ""
-    },
-    {
       "id": "80b5",
       "email": "sezuf@mailinator.com",
       "name": "Culpa nemo pariatur",
@@ -49,12 +43,6 @@
       "password": "Pa$$w0rd!"
     },
     {
-      "id": "96bd",
-      "email": "",
-      "name": "",
-      "password": ""
-    },
-    {
       "id": "e833",
       "email": "ropyradi@mailinator.com",
       "name": "Voluptas omnis illo ",
@@ -71,6 +59,12 @@
       "email": "ladagyde@mailinator.com",
       "name": "Dolore quis cumque d",
       "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "4bd7",
+      "email": "nusin@gimail.com",
+      "name": "nusin",
+      "password": "12345"
     }
   ]
 }

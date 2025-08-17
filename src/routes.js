@@ -1,6 +1,9 @@
+// npm install vue-router@next
+
 import HomePage from './components/Home.vue'
 import SignUp from './components/SignUp.vue'
-import { createRouter, createWebHashHistory } from 'vue-router'
+import { createRouter,createWebHistory } from 'vue-router'
+import LogIn from './components/Login.vue'
 
 const routes = [
     {
@@ -13,9 +16,14 @@ const routes = [
         component:SignUp,
         path:'/sign-up'
     },
+    {
+        name:'LogIn',
+        component:LogIn,
+        path:'/login'
+    }
 ]
 const router = createRouter({
-    history:createWebHashHistory(),
+    history:createWebHistory(),
     routes
 })
 
