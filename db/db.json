@@ -71,6 +71,50 @@
       "email": "saimun@gmail.com",
       "name": "saimun",
       "password": "12345"
+    },
+    {
+      "id": "4b74",
+      "email": "",
+      "name": "",
+      "password": ""
+    },
+    {
+      "id": "a471",
+      "email": "",
+      "name": "",
+      "password": ""
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "1",
+      "name": "KFC",
+      "address": "Rangpur",
+      "contact": 111
+    },
+    {
+      "id": "2",
+      "name": "hs kitchen",
+      "address": "Rangpur",
+      "contact": 4563
+    },
+    {
+      "id": "a3df",
+      "name": "Silas Baldwin",
+      "address": "Aut error suscipit e",
+      "contact": "Voluptatem quia accu"
+    },
+    {
+      "id": "ff16",
+      "name": "Yvette Marks",
+      "address": "Anim dolore et offic",
+      "contact": "Sed vel molestiae pe"
+    },
+    {
+      "id": "4981",
+      "name": "Rowan York",
+      "address": "Reiciendis rem qui r",
+      "contact": "Reiciendis perspicia"
     }
   ]
 }
